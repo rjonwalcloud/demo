@@ -1,6 +1,6 @@
 # demo
 
-# about-the-project
+## About-the-project
 Demo code to test tool features and basic understanding of solution comes with it.
 
 
@@ -31,13 +31,14 @@ Demo code to test tool features and basic understanding of solution comes with i
 </details>
 
 
-#built-with
+<!-- BUILT-WITH -->
+## Built-with
+
+* [Choose README.md file](https://github.com/othneildrew/Best-README-Template/blob/main/README.md)
 
 
-* https://github.com/othneildrew/Best-README-Template/blob/main/README.md
-
-
-#getting-started
+<!-- GETTING_STARTED -->
+## Getting-started
 
 
 This repo has folders to test different tools. 
@@ -61,20 +62,53 @@ Please follow this dir structure
 Each folder will have their own README.md file to test the tool. 
 
 
-#usage
+<!-- USAGE -->
+## Usage
 
 
 Go to respecitive folder of the tools you want to test. 
 
 For example: To test terrform, goto folder poc_terraform and check README.md file and follow the steps mentioned there. 
 
-#roadmap
+
+<!-- ROADMAP -->
+## Roadmap
 
 
 Current goal is to test tools individually in their respecitve folder. In future we will use major or all tools in a connected experience to end to end test our solution. 
 
 For eg. Currently we can test terraform individually but later we can integrate it with full CI/CD apporach to test if infra is there and if not terraofrm will create it beforehand. 
 
+- [x] Add README.md
+- [x] Add poc_tool folders
+- [ ] Add terraform code
+- [ ] Add snyk code
+- [ ] Add GCP code
+- [ ] Add AWS code
+- [ ] Add Azure code
+- [ ] Add Kubernetes code
+- [ ] Add multi-language support
+    - [ ] Chinese
+    - [ ] Hindi
+    - [ ] Spanish
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+* [Choose README.md file](https://github.com/othneildrew/Best-README-Template/blob/main/README.md)
