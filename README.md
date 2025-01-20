@@ -1,7 +1,7 @@
 # demo
 
 # about-the-project
-This repos is created to host demo projects so we can test tools before moving it to production. 
+Demo code to test tool features and basic understanding of solution comes with it.
 
 
 <!-- TABLE OF CONTENTS -->
