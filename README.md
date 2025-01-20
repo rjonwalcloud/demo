@@ -142,7 +142,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - rjonwalcloud@gmaill.com
+Your Name - Rahul Jonwal [@LinkedIn](https://in.linkedin.com/in/rahuljonwal) - rjonwalcloud@gmaill.com
 
 Project Link: [https://github.com/rjonwalcloud/demo](https://github.com/rjonwalcloud/demo)
 
