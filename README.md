@@ -41,10 +41,23 @@ Demo code to test tool features and basic understanding of solution comes with i
 
 
 This repo has folders to test different tools. 
-Please follow this structure
--->main 
---->poc_toolname eg.poc_terraform, poc_snyk
---->README.md
+
+Please follow this dir structure
+
+```sh
+├── poc_toolname eg.poc_terraform, poc_snyk 
+│   ├── file11.ext
+│   └── file12.ext
+│   └── README.md
+├── poc_toolname2
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── README.md
+├── poc_toolname3
+├── file_in_main.ext
+└── README.md
+```
+
 Each folder will have their own README.md file to test the tool. 
 
 
