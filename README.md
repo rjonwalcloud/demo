@@ -32,9 +32,14 @@ This repos is created to host demo projects so we can test tools before moving i
 
 
 #built-with
-1. https://github.com/othneildrew/Best-README-Template/blob/main/README.md
+
+
+* https://github.com/othneildrew/Best-README-Template/blob/main/README.md
+
 
 #getting-started
+
+
 This repo has folders to test different tools. 
 Please follow this structure
 -->main 
@@ -42,13 +47,20 @@ Please follow this structure
 --->README.md
 Each folder will have their own README.md file to test the tool. 
 
+
 #usage
+
+
 Go to respecitive folder of the tools you want to test. 
+
 For example: To test terrform, goto folder poc_terraform and check README.md file and follow the steps mentioned there. 
 
 #roadmap
+
+
 Current goal is to test tools individually in their respecitve folder. In future we will use major or all tools in a connected experience to end to end test our solution. 
-For eg Currently we can test terraform individually but later we can integrate it with full CI/CD apporach to test if infra is there and if not terraofrm will create it beforehand. 
+
+For eg. Currently we can test terraform individually but later we can integrate it with full CI/CD apporach to test if infra is there and if not terraofrm will create it beforehand. 
 
 
 
