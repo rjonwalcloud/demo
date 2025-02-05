@@ -68,9 +68,9 @@ Each folder will have their own README.md file to test the tool.
 ## Usage
 
 
-Go to respecitive folder of the tools you want to test. 
+Go to respective folder of the tools you want to test. 
 
-For example: To test terrform, goto folder poc_terraform and check README.md file and follow the steps mentioned there. 
+For example: To test terraform, goto folder poc_terraform and check README.md file and follow the steps mentioned there. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 
@@ -80,9 +80,9 @@ For example: To test terrform, goto folder poc_terraform and check README.md fil
 ## Roadmap
 
 
-Current goal is to test tools individually in their respecitve folder. In future we will use major or all tools in a connected experience to end to end test our solution. 
+Current goal is to test tools individually in their respective folder. In future, we will use major or all tools in a connected experience to end to end test our solution. 
 
-For eg. Currently we can test terraform individually but later we can integrate it with full CI/CD apporach to test if infra is there and if not terraofrm will create it beforehand. 
+For eg. Currently, we can test terraform individually, but later we can integrate it with full CI/CD approach to test if infra is there and if not terraofrm will create it beforehand. 
 
 - [x] Add README.md
 - [x] Add poc_tool folders
@@ -133,7 +133,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- LICENSE -->
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+Distributed under the Unlicensed License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 
